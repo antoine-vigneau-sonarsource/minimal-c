@@ -12,3 +12,4 @@ if [ $RC -ne 0 ]; then
 else
   echo "BUILD SUCCESS"
 fi
+
